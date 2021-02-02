@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.hometitle1{
+  font-size: 40px;
+  color:#2c3d63;
+  text-align:center,
+
+}
+.hometitle{
+  font-size: 40px;
+  color:#2c3d63;
+  text-align:initial
+}
+.freedigitalman{
+  width: 80%;
+  height:80%;
+}
+.launchnum{
+  font-size: 40px;
+  font-weight: bold;
+}
+.launchlogo{}
