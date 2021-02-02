@@ -213,7 +213,7 @@ newContactInfo.set({
       </div>
     
      
-     <div class="row" style={{color:"white",backgroundColor:"#2c3d63",fontFamily:"Comfortaa",fontSize:"16px",marginTop:"120px"}}>
+     <div class="row" style={{color:"white",backgroundColor:"#2c3d63",fontFamily:"Comfortaa",fontSize:"16px",marginTop:"150px"}}>
          <div class="col-sm-6">
          Add:B/22 103 Ketki Sector 1 Shanti Nagar Opp Shanti Shopping Center, Mira Road, Thane, Maharashtra 401107
     
